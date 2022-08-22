@@ -1,9 +1,10 @@
 ---
-title: ptrjst ;)
+title: Volunteering
 ---
 
-[Start](index.md)  ~  [Vita](aboutme.md)  ~  [Education](myeducation.md)  ~  [Volunteering](volunteering.md)
----
+**[Start](index.md)**  ~  **[Vita](AboutMe.md)**  ~  **[Education](MyEducation.md)**  ~  **[Volunteering](Volunteering.md)**
+
+----
 
 # Meine ehrenamtlichen Tätigkeiten
 ## ÜL-C im Sport
