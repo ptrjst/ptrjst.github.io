@@ -2,7 +2,7 @@
 title: ptrjst ;)
 ---
 
-read more about me [here](AboutMe.md#Interests)
+read more about me [here](AboutMe.md#interests)
 
 # Heading of the index.md file
 Content of the index.md file
