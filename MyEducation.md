@@ -1,3 +1,10 @@
+---
+title: ptrjst ;)
+---
+
+[Start](index.md)  ~  [Vita](aboutme.md)  ~  [Education](myeducation.md)  ~  [Volunteering](volunteering.md)
+---
+
 # Education
 
 ## Zu Erst ...
