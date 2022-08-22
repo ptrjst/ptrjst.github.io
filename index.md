@@ -1,5 +1,5 @@
 ---
-title: PTRJST - My notes released ...
+title: ptrjst ;)
 ---
 
 read more about me [here](AboutMe.md#Interests)
