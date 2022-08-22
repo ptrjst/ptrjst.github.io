@@ -2,7 +2,7 @@
 title: PAGE TITLE HERE
 ---
 
-read more about me [here](AboutMe.md)
+read more about me [here](AboutMe.md#Interests)
 
 # Heading of the index.md file
 Content of the index.md file
