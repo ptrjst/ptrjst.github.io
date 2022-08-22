@@ -2,8 +2,9 @@
 title:
 ---
 
-[Start](index.md)  ~  [Vita](AboutMe.md)  ~  [Education](MyEducation.md)  ~  [Volunteering](Volunteering)
----
+**[Start](index.md)**  ~  **[Vita](AboutMe.md)**  ~  **[Education](MyEducation.md)**  ~  **[Volunteering](Volunteering.md)**
+
+----
 
 # Bio
 Hi - my name is Peter :)
