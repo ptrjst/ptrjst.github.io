@@ -1,5 +1,5 @@
 ---
-title: PAGE TITLE HERE
+title: PTRJST - My notes released ...
 ---
 
 read more about me [here](AboutMe.md#Interests)
