@@ -1,3 +1,10 @@
+---
+title:
+---
+
+[Start](index.md)  ~  [Vita](AboutMe.md)  ~  [Education](MyEducation.md)  ~  [Volunteering](Volunteering)
+---
+
 # Bio
 Hi - my name is Peter :)
 
