@@ -1,4 +1,9 @@
-theme: jekyll-theme-tactile
+# Test Configurations from https://sighingnow.github.io/jekyll-gitbook/jekyll/2019-04-28-howto.html
+title:            Jekyll Gitbook
+longtitle:        Jekyll Gitbook
+remote_theme:     sighingnow/jekyll-gitbook
+
+#theme: jekyll-theme-tactile
 plugins:
   - jekyll-relative-links
 relative_links:
